@@ -9,7 +9,7 @@
 
 1.jose david correa 
 2.jose botero 
-3.jose david valencia 
+### [Jose David Valencia Martinez] 
 - **Experiencia:** Desarrollo de proyectos académicos en programación, desarrollo web y gestión de proyectos de software. Experiencia trabajando con JavaScript, Java, Git y GitHub.
 
 - **Capacidades:** Trabajo en equipo, resolución de problemas, aprendizaje rápido, programación, manejo de Git/GitHub, desarrollo de aplicaciones y adaptación a nuevas tecnologías.
